@@ -4,7 +4,7 @@
 
 // boolean
 let bool: boolean = true; //boolという変数にtrueが代入される
-
+export { bool };
 
 // number 数値
 let num: number = 0;
